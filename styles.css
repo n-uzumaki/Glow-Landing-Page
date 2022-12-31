@@ -1,0 +1,47 @@
+.container-fluid{
+    padding: 3% 10%;
+}
+
+#title {
+    background-color: #c1b8cb;
+}
+
+.header-box {
+    padding: 5% 0;
+}
+
+.navbar-brand {
+    font-family: 'Bad Script', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.header-box-paragraph {
+    font-family: 'Montserrat-Thin';
+    font-size: 1.5rem;
+    padding: 5% 30% 5% 0;
+}
+
+.btn-lg {
+    margin-right: 2.5%;
+}
+
+.sparkle-icon {
+    font-size: 3rem;
+}
+
+.cart-icon {
+    margin-top: 2.5%;
+    padding-left: 5%;
+}
